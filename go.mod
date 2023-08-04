@@ -1,4 +1,4 @@
-module nostk
+module nostrkey
 
 go 1.20
 
